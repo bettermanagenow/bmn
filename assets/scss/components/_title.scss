@@ -1,0 +1,15 @@
+.title {
+  color: $black;
+  font-size: 42px;
+  font-weight: bold;
+  line-height: 1.2;
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+  text-decoration-thickness: 8px;
+  text-underline-position: under;
+  //text-underline-offset: 4px;
+  text-decoration-color: #ffeb3b;
+  @include media-breakpoint-up(lg) {
+    font-size: 50px;
+  }
+}

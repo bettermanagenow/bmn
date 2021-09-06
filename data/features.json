@@ -1,0 +1,17 @@
+[
+  {
+    "title": "MANAGEMENT",
+    "description": "All management is about ‘What to do?’. Its all about action, execution and doing things right. Its about effectively using three biggest resources of every enterprise - Men, Money, and Materials.",
+    "image": "images/features/management.svg"
+  },
+  {
+    "title": "STRATEGY",
+    "description": "All strategy is about ‘When to do?’ and ‘How to do?’. Strategy is planning and designing processes that help achieve the overall long-term aims and goals of an organization.",
+    "image": "images/features/strategy.svg"
+  },
+  {
+    "title": "LEADERSHIP",
+    "description": "All leadership is about ‘Who to do?’ aspect in an organization. Leadership means to lead, motivate and guide individuals and teams in an organization to achieve the desired goals.",
+    "image": "images/features/leadership.svg"
+  }
+]

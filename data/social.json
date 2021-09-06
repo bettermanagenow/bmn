@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Facebook",
+        "link": "https://www.facebook.com/BetterManageNow",
+        "image": "images/social/facebook.png"
+    },
+    {
+        "name": "Twitter",
+        "link": "https://twitter.com/BetterManageNow",
+        "image": "images/social/twitter.png"
+    },
+    {
+        "name": "Linkedin",
+        "link": "https://in.linkedin.com/company/bettermanagenow",
+        "image": "images/social/linkedin.png"
+    },
+    {
+        "name": "Github",
+        "link": "https://github.com/bettermanagenow",
+        "image": "images/social/github.png"
+    },
+    {
+        "name": "Youtube",
+        "link": "https://www.youtube.com/c/Bettermanagenow",
+        "image": "images/social/youtube.png"
+    }
+]
