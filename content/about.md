@@ -8,7 +8,7 @@ intro_image_hide_on_mobile: false
 
 ## We all at <mark>Better Manage Now</mark> very strongly believe that all business productivity and performance is the result of a strong motivated team of professionals with hands on industry expertise and experience.
 
-### We are a team of professionals with huge industry experience and expertise. We are a team of committed individuals with only one focus in mind and that is the better management, better performance, and better productivity of the organization that we are working for. We strive on the philosophy that your success is our success and your failure is our failure. The very proof of our survival and sustenance is your better productivity and better performance.
+### We are a team of professionals with huge industry experience and expertise. We are a team of committed individuals with only one focus in mind and that is the better management, better performance, and better productivity of the organization that we are working for. We strive on the philosophy that your success is our success and your failure is our failure. The very proof of our survival and sustenance is your better productivity and better performance. You may like to hire us.
 
 ![About Us](/images/about-us.svg)
 
