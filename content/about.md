@@ -124,5 +124,11 @@ Our services are tailor made, customized and designed to suit individual needs a
 .jumbotron:hover {  
   background-color: #f8cdde;
 }
+mark {
+  //display: inline-block;
+  line-height: 0em;
+  //padding-bottom: 0.6em;
+  background-color: #f24088;
+}
 </style>
 {{< /rawhtml >}}
