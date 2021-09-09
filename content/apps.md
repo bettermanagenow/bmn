@@ -41,11 +41,13 @@ intro_image_hide_on_mobile: false
 ## You may also like to see the App in action in the browser. It is device responsive and mobile friendly:
 
 {{< rawhtml >}}
-<a href="https://bit.ly/2SVunNg" target="_blank" class="btn btn-primary btn-lg">See it in Action <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" width="20px" height="20px" fill="currentColor">
+<a href="https://bit.ly/2SVunNg" target="_blank" class="btn btn-primary btn-lg mb-2">See it in Action <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" width="20px" height="20px" fill="currentColor">
   <path fill-rule="evenodd" d="M10.293 15.707a1 1 0 010-1.414L14.586 10l-4.293-4.293a1 1 0 111.414-1.414l5 5a1 1 0 010 1.414l-5 5a1 1 0 01-1.414 0z" clip-rule="evenodd" />
   <path fill-rule="evenodd" d="M4.293 15.707a1 1 0 010-1.414L8.586 10 4.293 5.707a1 1 0 011.414-1.414l5 5a1 1 0 010 1.414l-5 5a1 1 0 01-1.414 0z" clip-rule="evenodd" />
 </svg></a></button>
 {{< /rawhtml >}}
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Want to see how your stocks are performing? See our WebApp in action. It is FREE!! <br><br>👉 <a href="https://t.co/Iy9ySLihGh">https://t.co/Iy9ySLihGh</a><a href="https://twitter.com/hashtag/BSE?src=hash&amp;ref_src=twsrc%5Etfw">#BSE</a> <a href="https://twitter.com/hashtag/Sensex?src=hash&amp;ref_src=twsrc%5Etfw">#Sensex</a> <a href="https://twitter.com/hashtag/Nifty?src=hash&amp;ref_src=twsrc%5Etfw">#Nifty</a> <a href="https://twitter.com/hashtag/NSE?src=hash&amp;ref_src=twsrc%5Etfw">#NSE</a> <a href="https://twitter.com/hashtag/BSEAllCap?src=hash&amp;ref_src=twsrc%5Etfw">#BSEAllCap</a> <a href="https://twitter.com/hashtag/Stocks?src=hash&amp;ref_src=twsrc%5Etfw">#Stocks</a> <a href="https://twitter.com/hashtag/StockTrading?src=hash&amp;ref_src=twsrc%5Etfw">#StockTrading</a> <a href="https://twitter.com/hashtag/WebApp?src=hash&amp;ref_src=twsrc%5Etfw">#WebApp</a> <a href="https://t.co/YsaofzKeTk">pic.twitter.com/YsaofzKeTk</a></p>&mdash; BMN💙 (@BetterManageNow) <a href="https://twitter.com/BetterManageNow/status/1436054688558829583?ref_src=twsrc%5Etfw">September 9, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 {{< rawhtml >}}
 <div class="card shadow mt-3 mb-3">
