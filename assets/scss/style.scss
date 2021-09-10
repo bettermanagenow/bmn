@@ -98,7 +98,7 @@ body:after {
 }
 
 // Scrollbar
-::selection {
+body::selection {
   //background-color:darken($color: $primary, $amount: 10);
   //color: $white;
 }
@@ -110,11 +110,13 @@ body::-webkit-scrollbar {
 body::-webkit-scrollbar-track {
   box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
   //-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+  
 }
 
 body::-webkit-scrollbar-thumb {
   background-color: $primary;
   outline: 2px solid #fff;
+  //border-radius: 10px;
 }
 
 // Form
