@@ -41,7 +41,7 @@ intro_image_hide_on_mobile: false
 ## You may also like to see the App in action in the browser. It is device responsive and mobile friendly:
 
 {{< rawhtml >}}
-<a href="https://bit.ly/2SVunNg" target="_blank" class="btn btn-primary btn-lg mb-2">See it in Action <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" width="20px" height="20px" fill="currentColor">
+<a href="https://bit.ly/2SVunNg" target="_blank" class="btn btn-primary btn-lg mb-2">See it in Action <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" width="30px" height="30px" fill="currentColor">
   <path fill-rule="evenodd" d="M10.293 15.707a1 1 0 010-1.414L14.586 10l-4.293-4.293a1 1 0 111.414-1.414l5 5a1 1 0 010 1.414l-5 5a1 1 0 01-1.414 0z" clip-rule="evenodd" />
   <path fill-rule="evenodd" d="M4.293 15.707a1 1 0 010-1.414L8.586 10 4.293 5.707a1 1 0 011.414-1.414l5 5a1 1 0 010 1.414l-5 5a1 1 0 01-1.414 0z" clip-rule="evenodd" />
 </svg></a></button>
@@ -119,7 +119,7 @@ intro_image_hide_on_mobile: false
   <hr class="my-4">
   <p class="lead">We have all the experience and expertise in <span class="badge badge-success">Better Investment Management</span> and <span class="badge badge-secondary">Better Financial Management</span> of an organization. You may like to seek our services.</p>
   <p class="lead">
-    <a class="btn btn-primary btn-lg" href="/contact" role="button">Sign Up Today <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" width="20px" height="20px" fill="currentColor">
+    <a class="btn btn-primary btn-lg" href="/contact" role="button">Sign Up Today <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" width="30px" height="30px" fill="currentColor">
   <path fill-rule="evenodd" d="M10.293 15.707a1 1 0 010-1.414L14.586 10l-4.293-4.293a1 1 0 111.414-1.414l5 5a1 1 0 010 1.414l-5 5a1 1 0 01-1.414 0z" clip-rule="evenodd" />
   <path fill-rule="evenodd" d="M4.293 15.707a1 1 0 010-1.414L8.586 10 4.293 5.707a1 1 0 011.414-1.414l5 5a1 1 0 010 1.414l-5 5a1 1 0 01-1.414 0z" clip-rule="evenodd" />
 </svg></a>

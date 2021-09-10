@@ -108,13 +108,13 @@ body::-webkit-scrollbar {
 }
 
 body::-webkit-scrollbar-track {
-  //box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+  box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
   -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
 }
 
 body::-webkit-scrollbar-thumb {
   background-color: $primary;
-  //outline: 2px solid #fff;
+  outline: 2px solid #fff;
 }
 
 // Form
