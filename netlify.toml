@@ -9,3 +9,9 @@
 [context.production.environment]
   HUGO_VERSION = "0.74.3"
   RUBY_VERSION = "2.7.1"
+
+[[redirects]]
+from = "https://bettermanagenow.netlify.app/"
+to = "https://go.bettermanagenow.com/"
+status = 301
+force = true
