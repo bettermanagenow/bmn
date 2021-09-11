@@ -5,6 +5,7 @@ draft: false
 image: "images/team/avadhoot-dandekar.jpg"
 jobtitle: "Founding Director"
 linkedinurl: "https://www.linkedin.com/in/avadhootdandekar2010"
+Twitterhandle: "AvadhootMe"
 promoted: true
 weight: 1
 ---

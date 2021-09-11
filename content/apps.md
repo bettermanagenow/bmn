@@ -48,6 +48,11 @@ intro_image_hide_on_mobile: false
 {{< /rawhtml >}}
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Want to see how your stocks are performing? See our WebApp in action. It is FREE!! <br><br>👉 <a href="https://t.co/Iy9ySLihGh">https://t.co/Iy9ySLihGh</a><a href="https://twitter.com/hashtag/BSE?src=hash&amp;ref_src=twsrc%5Etfw">#BSE</a> <a href="https://twitter.com/hashtag/Sensex?src=hash&amp;ref_src=twsrc%5Etfw">#Sensex</a> <a href="https://twitter.com/hashtag/Nifty?src=hash&amp;ref_src=twsrc%5Etfw">#Nifty</a> <a href="https://twitter.com/hashtag/NSE?src=hash&amp;ref_src=twsrc%5Etfw">#NSE</a> <a href="https://twitter.com/hashtag/BSEAllCap?src=hash&amp;ref_src=twsrc%5Etfw">#BSEAllCap</a> <a href="https://twitter.com/hashtag/Stocks?src=hash&amp;ref_src=twsrc%5Etfw">#Stocks</a> <a href="https://twitter.com/hashtag/StockTrading?src=hash&amp;ref_src=twsrc%5Etfw">#StockTrading</a> <a href="https://twitter.com/hashtag/WebApp?src=hash&amp;ref_src=twsrc%5Etfw">#WebApp</a> <a href="https://t.co/YsaofzKeTk">pic.twitter.com/YsaofzKeTk</a></p>&mdash; BMN💙 (@BetterManageNow) <a href="https://twitter.com/BetterManageNow/status/1436054688558829583?ref_src=twsrc%5Etfw">September 9, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<br>
+
+```javascript
+<iframe allowfullscreen="" height="400px" src="https://script.google.com/macros/s/AKfycbxIsFJw0ShC_R3-Abz2CA_NklNCPmkt_Y1Ja67KoCvfq850ij28dbdx9G9VE6s961wp/exec" style="border: 0px #ffffff none;" width="100%"></iframe>
+```
 
 {{< rawhtml >}}
 <div class="card shadow mt-3 mb-3">
@@ -146,3 +151,4 @@ mark {
   background-color: #f24088;
 }
 </style>
+{{< /rawhtml >}}

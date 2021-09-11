@@ -5,6 +5,7 @@ draft: false
 image: "images/team/sangeeta-dandekar.jpg"
 jobtitle: "Founding Director"
 linkedinurl: "https://www.linkedin.com/in/sangeeta-dandekar-2851b522/"
+Twitterhandle: "sangeeta_2010"
 promoted: true
 weight: 2
 ---

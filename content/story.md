@@ -47,9 +47,9 @@ The new guy felt little relieved and thought of taking the help of the first env
 
 > 1. __RESPONSIBILITY:__ The freedom is not free. And it comes with a cost called the Responsibility.
 > 2. __ACTION:__ Action is potent. Inaction is impotent. And leadership means to act wisely.
-> 3. __MANAGEMENT:__ If you can’t yourself, you can’t manage anything.  
+> 3. __MANAGEMENT:__ If you can’t manage yourself, you can’t manage anything.  
 
-The new CEO was very happy and quickly thought of implementing the advice. He called a meeting of his entire team, took them in confidence and shared the new winning strategy. They all started blaming the earlier CEO and his team for all the failures.
+The new CEO was very happy and quickly thought of implementing the advice. He called a meeting of his entire [team](/contact), took them in confidence and shared the new winning strategy. They all started blaming the earlier CEO and his team for all the failures.
 
 ## Implementing the New Strategy
 
@@ -57,13 +57,13 @@ They all blamed the earlier CEO and his team for their faults in planning, forec
 
 > - __LEARN, UNLEARN, AND RELEARN.__ Learning never ends. It begins somewhere in the past. But it never ends. Keep learning. And keep improving.
 > - __LEARN FROM THE PAST. LIVE IN THE PRESENT.__ AND LOOK INTO THE FUTURE. We learn from mistakes. Mistake is human. We make mistakes in the past. We improve them in the present. And make mastery for the future. 
-> - __Do not blame. Don’t blame the people and don’t blame the circumstances. Own up and take the responsibility. Leaders lead. They own up things. They take responsibility. Executives execute. Managers manage. Senior managers make strategies. Directors direct. How can a CEO be a Chief Executive Officer? What’s there to execute now? He is a Chief Evolutionary Officer. He is a Chief Enchanting Officer. He is a Chief Energyzing Officer. He is a Chief Entertainment Officer. He is a Chief Enlightening Officer. In his presence things happen. In his presence all his followers say, “We have done!!”. He is Catalyst. He is a Change Agent. He is a Coach. In his presence things happen. In his presence creativity takes place.__
+> - __Do not blame. Don’t blame the people and don’t blame the circumstances. Own up and take the responsibility. Leaders lead. They own up things. They take responsibility. Executives execute. Managers manage. Senior managers make strategies. Directors direct. How can a CEO be a Chief Executive Officer? What’s there to execute now? He is a Chief Evolutionary Officer. He is a Chief Enchanting Officer. He is a Chief Energyzing Officer. He is a Chief Entertaining Officer. He is a Chief Enlightening Officer. In his presence things happen. In his presence all his followers say, “WE have done. WE have achieved!!”. He is Catalyst. He is a Change Agent. He is a Coach. In his presence things happen. In his presence creativity takes place.__ [TEAM: Together everyone achieves more!!](#Synergy)
 
 Somehow, time runs out fast. Just opening and closing our eyes it has already traveled miles. And we always say, “Time is Gold, don’t fritter it away”. This I think is absolutely true for anybody and in any situation. The honeymoon days are over. How long can you blame the other and the past? The CEO and his team faced another deep and worst ever management crisis. Another deep trouble unfolded.
 
 ## Guru Mantra: Prepare similar two envelops!!
 
-> And this time the management was very unhappy. The management was very angry and annoyed with the new CEO and his entire team. This appeared to be the last chance. Now a days a second chance is always a last chance. The new mantra is, the first chance is enough and there is no second chance. Not having any other option, the CEO opened the second envelope which was sealed and labeled as ‘Crisis Two’. The <mark>Guru Mantra</mark> that was written in the second letter said, “Prepare two similar envelops for the new incoming CEO”.
+> And this time the management was very unhappy. The management was very angry and annoyed with the new CEO and his entire team. This appeared to be the last chance. Now a days a second chance is always a last chance. The new mantra is, the first chance is enough and there is no second chance. Either perform or perish. Either do or die!! Not having any other option, the CEO opened the second envelope which was sealed and labeled as ‘Crisis Two’. The <mark>Guru Mantra</mark> that was written in the second letter said, “Prepare two similar envelops for the new incoming CEO”.
 
 {{< rawhtml >}}
 <div class="card shadow">
