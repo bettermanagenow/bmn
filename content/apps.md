@@ -6,7 +6,7 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-## We all at <mark>Better Manage Now</mark> very strongly believe in the Financial Freedom of all individuals. In that spirit we are trying to make Financial Education and Financial Management Education as simple as possible.
+## We all at <mark>Better Manage Now</mark> very strongly believe in the Financial Freedom of all individuals. In that spirit we are trying to make Financial Education and <typewritten-text repeat><b>Financial Management Education as simple as possible</b> ✨</typewritten-text>
 
 ### <span class="blue">The following App caters to the needs of investment in stock market and stock analysis of the Indian Stock Market. This app is free to use and we are trying hard to keep it FREE FOREVER.<span>
 
@@ -25,6 +25,10 @@ intro_image_hide_on_mobile: false
   );
   //-webkit-box-decoration-break: clone;
   //box-decoration-break: clone;
+}
+typewritten-text {
+  font-weight: bold;
+  color: #f24088;  
 }
 </style>
 
@@ -49,6 +53,8 @@ intro_image_hide_on_mobile: false
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Want to see how your stocks are performing? See our WebApp in action. It is FREE!! <br><br>👉 <a href="https://t.co/Iy9ySLihGh">https://t.co/Iy9ySLihGh</a><a href="https://twitter.com/hashtag/BSE?src=hash&amp;ref_src=twsrc%5Etfw">#BSE</a> <a href="https://twitter.com/hashtag/Sensex?src=hash&amp;ref_src=twsrc%5Etfw">#Sensex</a> <a href="https://twitter.com/hashtag/Nifty?src=hash&amp;ref_src=twsrc%5Etfw">#Nifty</a> <a href="https://twitter.com/hashtag/NSE?src=hash&amp;ref_src=twsrc%5Etfw">#NSE</a> <a href="https://twitter.com/hashtag/BSEAllCap?src=hash&amp;ref_src=twsrc%5Etfw">#BSEAllCap</a> <a href="https://twitter.com/hashtag/Stocks?src=hash&amp;ref_src=twsrc%5Etfw">#Stocks</a> <a href="https://twitter.com/hashtag/StockTrading?src=hash&amp;ref_src=twsrc%5Etfw">#StockTrading</a> <a href="https://twitter.com/hashtag/WebApp?src=hash&amp;ref_src=twsrc%5Etfw">#WebApp</a> <a href="https://t.co/YsaofzKeTk">pic.twitter.com/YsaofzKeTk</a></p>&mdash; BMN💙 (@BetterManageNow) <a href="https://twitter.com/BetterManageNow/status/1436054688558829583?ref_src=twsrc%5Etfw">September 9, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 <br>
+
+## You are FREE to embed the App in your websites. Find the code below:
 
 ```javascript
 <iframe allowfullscreen="" height="400px" src="https://script.google.com/macros/s/AKfycbxIsFJw0ShC_R3-Abz2CA_NklNCPmkt_Y1Ja67KoCvfq850ij28dbdx9G9VE6s961wp/exec" style="border: 0px #ffffff none;" width="100%"></iframe>
