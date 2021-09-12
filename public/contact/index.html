@@ -13,8 +13,10 @@
   
   
   
+
   
-  <link rel="stylesheet" href="/www.example.com/css/style.min.79046b1cbad87c4def13e894c4f74e0f8a6365eecbd5bc361ce577959a331d56.css">
+  
+  <link rel="stylesheet" href="/www.example.com/css/style.min.80c6124faf93719da6cac7bb771883a8ade3cb605fcb612461565e79feb51c45.css">
   
 
   
@@ -139,7 +141,7 @@
     <div class="row justify-content-center"> 
       <div class="col-12 col-md-7 col-lg-6 order-2 order-md-1">
         <h1 class="title">Contact Us</h1>
-        <div class="content mt-4"><p>We help small businesses in Better Management of their Finances, Accounts, Investments, and Taxes <mark>(FAIT)</mark>. Be positive and keep doing better things. Be better than the best, and be better than the rest!! Please <mark>CONTACT</mark> us.</p>
+        <div class="content mt-4"><p><span class="typewriter-cycle">We help small businesses in <typewritten-text>Better Management</typewritten-text> of their Finances, Accounts, Investments, and Taxes <mark>(FAIT)</mark>. Be positive and keep doing better things. Be better than the best, and be better than the rest!! Please <mark>CONTACT</mark> us.</span></p>
 <table>
 <thead>
 <tr>
@@ -179,7 +181,27 @@
 tr {background-color:rgb(246, 253, 253);} 
 tr:hover {background-color: rgba(233, 235, 154, 0.76) !important;}
 .selectedTableRow {background-color: rgba(141, 186, 238, 0.76) !important;}
-</style><blockquote>
+typewritten-text {
+  font-weight: bold;
+  color: #f24088;  
+}
+</style>
+<script>
+document.querySelectorAll('.typewriter-cycle').forEach(cycle => {
+  const items = cycle.querySelectorAll('typewritten-text')
+  for (let i = 0; i < items.length; ++i) {
+    const cur = items[i]
+    const next = items[i === items.length - 1 ? 0 : i + 1]
+    
+    cur.addEventListener('typewritten-text:phrasetyped', () => setTimeout(cur.start, cur.phraseInterval))
+    cur.addEventListener('typewritten-text:phraseremoved', () => {
+      cur.classList.remove('active')
+      next.classList.add('active')
+      setTimeout(next.start, next.phraseInterval)
+    })
+  }
+})
+</script><blockquote>
 </blockquote>
 </div>
       </div>
@@ -310,7 +332,7 @@ tr:hover {background-color: rgba(233, 235, 154, 0.76) !important;}
   
 
   
-  <script type="text/javascript" src="/www.example.com/js/scripts.min.98ee06cc35517b5800b382aecb0fc59893e95b9c11dd21842d0d57e4f68043e3.js"></script>
+  <script type="text/javascript" src="/www.example.com/js/scripts.min.e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.js"></script>
   
 
   
