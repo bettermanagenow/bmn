@@ -6,7 +6,7 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-## We all at <mark>Better Manage Now</mark> very strongly believe that all business productivity and performance is the result of a strong motivated team of professionals with hands on industry expertise and experience. You can trust us.
+## <span class="typewriter-cycle">We all at <mark>Better Manage Now</mark> very strongly believe that all business productivity and performance is the result of a strong motivated team of professionals with hands on industry expertise and experience. <typewritten-text><b>You can trust us</b> ✨</typewritten-text><span>
 
 ### We are a team of professionals with huge industry experience and expertise. We are a team of committed individuals with only one focus in mind and that is the better management, better performance, and better productivity of the organization that we are working for. We strive on the philosophy that your success is our success and your failure is our failure. The very proof of our survival and sustenance is your better productivity and better performance. You may like to hire us.
 
@@ -130,5 +130,26 @@ mark {
   //padding-bottom: 0.6em;
   background-color: #f24088;
 }
+typewritten-text {
+  font-weight: bold;
+  color: #f24088;  
+}
 </style>
 {{< /rawhtml >}}
+
+<script>
+document.querySelectorAll('.typewriter-cycle').forEach(cycle => {
+  const items = cycle.querySelectorAll('typewritten-text')
+  for (let i = 0; i < items.length; ++i) {
+    const cur = items[i]
+    const next = items[i === items.length - 1 ? 0 : i + 1]
+    
+    cur.addEventListener('typewritten-text:phrasetyped', () => setTimeout(cur.start, cur.phraseInterval))
+    cur.addEventListener('typewritten-text:phraseremoved', () => {
+      cur.classList.remove('active')
+      next.classList.add('active')
+      setTimeout(next.start, next.phraseInterval)
+    })
+  }
+})
+</script>
