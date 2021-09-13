@@ -168,11 +168,4 @@ mark {
   background-color: $primary;
 }
 
-//Alert CSS
-.alert:hover {  
-  //background-color: #f8cdde;
-  background-color: $primary !important;
-  color: #fff;
-}
-
 {{ end }}

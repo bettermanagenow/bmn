@@ -49,3 +49,10 @@
     @include alert-variant(theme-color-level($color, $alert-bg-level), theme-color-level($color, $alert-border-level), theme-color-level($color, $alert-color-level));
   }
 }
+
+//Alert CSS
+.alert:hover {  
+  //background-color: #f8cdde;
+  background-color: $primary !important;
+  color: #fff;
+}
