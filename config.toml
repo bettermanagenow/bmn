@@ -10,6 +10,11 @@ link = "plugins/bootstrap/bootstrap.js"
 [[params.plugins.js]]
 link = "plugins/typewritten.js"
 
+[params.navigation_button]
+enable = true
+label = "Sign In"
+link = "contact"
+
 [markup] 
   [markup.asciidocExt]
     backend = "html5"
