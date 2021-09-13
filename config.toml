@@ -7,6 +7,8 @@ unsafe = true
 link = "plugins/jQuery/jquery.min.js"
 [[params.plugins.js]]
 link = "plugins/bootstrap/bootstrap.js"
+[[params.plugins.js]]
+link = "plugins/typewritten.js"
 
 [markup] 
   [markup.asciidocExt]

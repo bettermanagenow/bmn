@@ -136,7 +136,7 @@
   <div class="row justify-content-center">
     <div class="col-12 col-md-10">
       <h1 class="title">About Us</h1>
-      <div class="content"><h2 id="we-all-at-markbetter-manage-nowmark-very-strongly-believe-that-all-business-productivity-and-performance-is-the-result-of-a-strong-motivated-team-of-professionals-with-hands-on-industry-expertise-and-experience-you-can-trust-us">We all at <mark>Better Manage Now</mark> very strongly believe that all business productivity and performance is the result of a strong motivated team of professionals with hands on industry expertise and experience. You can trust us.</h2>
+      <div class="content"><h2 id="span-classtypewriter-cyclewe-all-at-markbetter-manage-nowmark-very-strongly-believe-that-all-business-productivity-and-performance-is-the-result-of-a-strong-motivated-team-of-professionals-with-hands-on-industry-expertise-and-experience-typewritten-textbyou-can-trust-usb-typewritten-textspan"><span class="typewriter-cycle">We all at <mark>Better Manage Now</mark> very strongly believe that all business productivity and performance is the result of a strong motivated team of professionals with hands on industry expertise and experience. <typewritten-text><b>You can trust us</b> ✨</typewritten-text><span></h2>
 <h3 id="we-are-a-team-of-professionals-with-huge-industry-experience-and-expertise-we-are-a-team-of-committed-individuals-with-only-one-focus-in-mind-and-that-is-the-better-management-better-performance-and-better-productivity-of-the-organization-that-we-are-working-for-we-strive-on-the-philosophy-that-your-success-is-our-success-and-your-failure-is-our-failure-the-very-proof-of-our-survival-and-sustenance-is-your-better-productivity-and-better-performance-you-may-like-to-hire-us">We are a team of professionals with huge industry experience and expertise. We are a team of committed individuals with only one focus in mind and that is the better management, better performance, and better productivity of the organization that we are working for. We strive on the philosophy that your success is our success and your failure is our failure. The very proof of our survival and sustenance is your better productivity and better performance. You may like to hire us.</h3>
 <p><img src="/images/about-us.svg" alt="About Us"></p>
 <p>Our services are tailor made, customized and designed to suit individual needs and requirements of any organization whether it is commercial or non-commercial. And before prescribing and offering any solution, we would like to first understand your business issues and needs from the very ground up. We are of this strong opinion and conviction that every organization and its problems are unique to itself and there can never be a common solution to all the problems of any organization. There can never be one-fit-for-all solution or strategy. Every problem is very unique to that organization and understanding that problem from the very ground-up is a good beginning for finding a better and sustainable solution.</p>
@@ -261,8 +261,28 @@ mark {
   //padding-bottom: 0.6em;
   background-color: #f24088;
 }
+typewritten-text {
+  font-weight: bold;
+  color: #f24088;  
+}
 </style>
 
+<script>
+document.querySelectorAll('.typewriter-cycle').forEach(cycle => {
+  const items = cycle.querySelectorAll('typewritten-text')
+  for (let i = 0; i < items.length; ++i) {
+    const cur = items[i]
+    const next = items[i === items.length - 1 ? 0 : i + 1]
+    
+    cur.addEventListener('typewritten-text:phrasetyped', () => setTimeout(cur.start, cur.phraseInterval))
+    cur.addEventListener('typewritten-text:phraseremoved', () => {
+      cur.classList.remove('active')
+      next.classList.add('active')
+      setTimeout(next.start, next.phraseInterval)
+    })
+  }
+})
+</script>
 </div>
     </div>
   </div>
@@ -304,6 +324,8 @@ mark {
 
 <script src="www.example.com/plugins/bootstrap/bootstrap.js"></script>
 
+<script src="www.example.com/plugins/typewritten.js"></script>
+
   <div class="sub-footer">
   <div class="container">
     <div class="row">
@@ -341,7 +363,7 @@ mark {
   
 
   
-  <script type="text/javascript" src="/www.example.com/js/scripts.min.e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.js"></script>
+  <script type="text/javascript" src="/www.example.com/js/scripts.min.98ee06cc35517b5800b382aecb0fc59893e95b9c11dd21842d0d57e4f68043e3.js"></script>
   
 
   

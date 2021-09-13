@@ -1,0 +1,1 @@
+import '@auroratide/typewritten-text/lib/define.js'

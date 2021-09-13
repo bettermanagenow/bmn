@@ -11,12 +11,12 @@ Finance is a field that is concerned with the allocation (investment) of assets 
 {{< rawhtml >}}
 <div class="card bd-callout bd-callout-info shadow">
 <h4 id="conveying-meaning-to-assistive-technologies"><span class="markme">Financial Management Services</span></h4>
-<p>We provide online accounting and bookkeeping services by the brand name <mark>Smart Accounting</mark> to small businesses. 
+<p>We provide online accounting and bookkeeping services by the brand name <mark>Smart Accounting</mark> to small businesses. <typewritten-text repeat><b>We help you solve your bookkeeping problems.</b></typewritten-text> 
 </p></div>
 
 <div class="card bd-callout bd-callout-info shadow">
 <h4 id="conveying-meaning-to-assistive-technologies"><span class="markme">Part-time CFO Services</span></h4>
-<p>We provide online accounting and bookkeeping services by the brand name <mark>Smart Accounting</mark> to small businesses. You can engage us as your Part-time CFO. 
+<p>We provide online accounting and bookkeeping services by the brand name <mark>Smart Accounting</mark> to small businesses. <typewritten-text repeat><b>You can engage us as your Part-time CFO.</b></typewritten-text> 
 </p></div>
 <style>
   .bd-callout-info {
@@ -29,6 +29,10 @@ Finance is a field that is concerned with the allocation (investment) of assets 
     border: 1px solid #03a9f4;
     border-left-width: .25rem;
     border-radius: .25rem;
+}
+typewritten-text {
+  font-weight: bold;
+  color: #f24088;  
 }
 </style>
 {{< /rawhtml >}}

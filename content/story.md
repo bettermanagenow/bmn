@@ -6,7 +6,7 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-## Once upon a time ...
+## <typewritten-text repeat>Once upon a time . . .</typewritten-text>
 
 # I heard a small corporate story which I would like to share. This is an interesting and inspiring management story. Once upon a time in a renowned organization an old <mark>CEO</mark> was to retire and a new, young and dynamic one was to take charge. The outgoing CEO was old, matured and well experienced. The new one was very young and dynamic. While leaving the organization, the old one shared his experiences, expertise, challenges and achievements with the new one. The new incoming CEO asked the old outgoing CEO for some <mark>Guru Mantra</mark>. 
 
@@ -15,7 +15,7 @@ The old one prepared two envelopes for the new one, sealed them and labeled them
 ![Story](/images/ceo-story.svg)
 
 {{< rawhtml >}}
-<div class="bd-callout bd-callout-info shadow">
+<div class="card bd-callout bd-callout-info shadow">
 <h4 id="conveying-meaning-to-assistive-technologies">Desiring or Deserving?</h4>
 <p>Desiring is different from Deserving. Demanding is different from <code>Commanding</code>. <mark>All leadership is learning, earning and maturing. I think it comes when we are ready!!</mark> 
 </p></div>
@@ -30,6 +30,10 @@ The old one prepared two envelopes for the new one, sealed them and labeled them
     border: 1px solid #03a9f4;
     border-left-width: .25rem;
     border-radius: .25rem;
+}
+typewritten-text {
+  font-weight: bold;
+  color: #f24088;  
 }
 </style>
 {{< /rawhtml >}}
@@ -61,7 +65,7 @@ They all blamed the earlier CEO and his team for their faults in planning, forec
 
 Somehow, time runs out fast. Just opening and closing our eyes it has already traveled miles. And we always say, “Time is Gold, don’t fritter it away”. This I think is absolutely true for anybody and in any situation. The honeymoon days are over. How long can you blame the other and the past? The CEO and his team faced another deep and worst ever management crisis. Another deep trouble unfolded.
 
-## Guru Mantra: Prepare similar two envelops!!
+## Guru Mantra: <typewritten-text repeat>Prepare two similar envelops!! 😂</typewritten-text>
 
 > And this time the management was very unhappy. The management was very angry and annoyed with the new CEO and his entire team. This appeared to be the last chance. Now a days a second chance is always a last chance. The new mantra is, the first chance is enough and there is no second chance. Either perform or perish. Either do or die!! Not having any other option, the CEO opened the second envelope which was sealed and labeled as ‘Crisis Two’. The <mark>Guru Mantra</mark> that was written in the second letter said, “Prepare two similar envelops for the new incoming CEO”.
 
@@ -71,7 +75,10 @@ Somehow, time runs out fast. Just opening and closing our eyes it has already tr
   <div class="card-body">
     <h5 class="card-title">Latest blog posts and news:</h5>
     <p class="card-text">Welcome to latest news and updates. Follow our blog to know the latest news in Business and Finance.</p>
-    <a href="https://www.bettermanagenow.com/" target="_blank" class="btn btn-primary">Go there</a>
+    <a href="https://www.bettermanagenow.com/" target="_blank" class="btn btn-primary">Go there <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" width="25px" height="25px" fill="currentColor">
+  <path fill-rule="evenodd" d="M10.293 15.707a1 1 0 010-1.414L14.586 10l-4.293-4.293a1 1 0 111.414-1.414l5 5a1 1 0 010 1.414l-5 5a1 1 0 01-1.414 0z" clip-rule="evenodd" />
+  <path fill-rule="evenodd" d="M4.293 15.707a1 1 0 010-1.414L8.586 10 4.293 5.707a1 1 0 011.414-1.414l5 5a1 1 0 010 1.414l-5 5a1 1 0 01-1.414 0z" clip-rule="evenodd" />
+</svg></a>
   </div>
 </div>
 
@@ -149,7 +156,10 @@ Somehow, time runs out fast. Just opening and closing our eyes it has already tr
 	<p>We follow best management practices to serve our clients and customers better. Never forget Murphy’s Law: Things always tend to go wrong! Take charge and take control before things go wrong.</p>
 	<hr>
 	<p class="mb-0">Our whole effort is to keep Murphy’s law at bay with the help of continuous <mark>Better Management</mark>. We are always there to help you manage things better. <span class="badge badge-success">Hurry up!!</span></p>
-  <p><a class="btn btn-lg btn-primary mt-1" href="#">Sign Up Today</a></p>
+  <p><a class="btn btn-lg btn-primary mt-1" href="#">Sign Up Today <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" width="30px" height="30px" fill="currentColor">
+  <path fill-rule="evenodd" d="M10.293 15.707a1 1 0 010-1.414L14.586 10l-4.293-4.293a1 1 0 111.414-1.414l5 5a1 1 0 010 1.414l-5 5a1 1 0 01-1.414 0z" clip-rule="evenodd" />
+  <path fill-rule="evenodd" d="M4.293 15.707a1 1 0 010-1.414L8.586 10 4.293 5.707a1 1 0 011.414-1.414l5 5a1 1 0 010 1.414l-5 5a1 1 0 01-1.414 0z" clip-rule="evenodd" />
+</svg></a></p>
 </div>
 <style>
 .alert:hover {  

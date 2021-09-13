@@ -66,7 +66,6 @@ $sub-footer-text-color: $white;
 
 //Typewritten Text 
 // @import '@auroratide/typewritten-text/lib/style.css';
-// @import '@auroratide/typewritten-text/lib/define.js';
 
 body {
   font-size: 16px;
@@ -167,6 +166,11 @@ mark {
   line-height: 0em;
   //padding-bottom: 0.6em;
   background-color: $primary;
+}
+
+//Alert CSS
+.alert:hover {  
+  background-color: #f8cdde;
 }
 
 {{ end }}
