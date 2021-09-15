@@ -168,4 +168,15 @@ mark {
   background-color: $primary;
 }
 
+//Text Selection Color
+::-moz-selection { /* Code for Firefox */
+  color: $white;
+  background: $primary;
+}
+
+::selection {
+  color: $white;
+  background: $primary;
+}
+
 {{ end }}
