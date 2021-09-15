@@ -13,6 +13,9 @@ We help you in <typewritten-text repeat><b>Better Management</b></typewritten-te
 <div class="alert alert-primary" role="alert">
   We are just a call away. Feel free to contact us!! 🔥
 </div>
+<div class="alert alert-success" role="alert">
+  Typewritten-text is licensed to and copyright of <a href="https://github.com/Auroratide/typewritten-text" target="_blank" class="alert-link">Auroratide</a>. Give it a try!! 👋
+</div>
 {{< /rawhtml >}}
 
 <style>

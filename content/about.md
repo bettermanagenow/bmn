@@ -156,3 +156,9 @@ document.querySelectorAll('.typewriter-cycle').forEach(cycle => {
   }
 })
 </script>
+
+{{< rawhtml >}}
+<div class="alert alert-success" role="alert">
+  Typewritten-text is licensed to and copyright of <a href="https://github.com/Auroratide/typewritten-text" target="_blank" class="alert-link">Auroratide</a>. Give it a try!! 👋
+</div>
+{{< /rawhtml >}}
