@@ -151,7 +151,7 @@ Somehow, time runs out fast. Just opening and closing our eyes it has already tr
 {{< /rawhtml >}}
 
 {{< rawhtml >}}
-<div class="alert alert-success shadow mt-3" role="alert">
+<div class="special alert alert-success shadow mt-3" role="alert">
 	<h4 class="alert-heading">Well begun is half done!!</h4>
 	<p>We follow best management practices to serve our clients and customers better. Never forget Murphy’s Law: Things always tend to go wrong! Take charge and take control before things go wrong.</p>
 	<hr>
@@ -163,7 +163,12 @@ Somehow, time runs out fast. Just opening and closing our eyes it has already tr
 </div>
 <style>
 .alert:hover {  
-  background-color: #f8cdde;
+  //background-color: #f8cdde;
+  background-image: linear-gradient(to right, #F09819 0%, #EDDE5D  51%, #F09819  100%);    
+}
+.special:hover {  
+  //background-color: #FFC300 !important;    
+  background-image: linear-gradient(to right, #00C9FF 0%, #92FE9D  51%, #00C9FF  100%);
 }
 </style>
 {{< /rawhtml >}}
